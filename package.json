@@ -1,0 +1,19 @@
+{
+  "name": "fullstack3",
+  "version": "1.0.0",
+  "description": "fullstack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gio911/fullstack3.git"
+  },
+  "author": "gio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gio911/fullstack3/issues"
+  },
+  "homepage": "https://github.com/gio911/fullstack3#readme"
+}
